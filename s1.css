@@ -1,0 +1,13 @@
+p { color : blue;}
+
+body { background-color : plum; }
+
+h1 { color : yellow; }
+
+footer{
+  margin: 20px 0;
+}
+
+footer p {
+  text-align: end;
+}
